@@ -1,4 +1,2 @@
 # Aquila
-```python
-print("hello , world")
-```
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sumukhalraju)](https://github.com/anuraghazra/github-readme-stats)
